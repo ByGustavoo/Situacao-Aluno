@@ -4,7 +4,7 @@
 ## Projeto desenvolvido utilizando HTML, CSS, JavaScript e PHP com o método POST, validando as informações por meio do JavaScript.
 
 
-# O projeto conta com um programa que calcula a situação do aluno, por meio das notas de suas provas, das duas avaliações interdisciplinares e pela presença do aluno.
+# O projeto conta com um programa que calcula a situação do aluno, por meio das notas de suas duas provas, das duas avaliações interdisciplinares e pela presença do aluno.
 
 
 # Regras
