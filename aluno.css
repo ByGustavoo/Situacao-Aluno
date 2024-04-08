@@ -1,0 +1,49 @@
+import sweetalert2/src/sweetalert2.scss
+
+* {
+    margin: 0;  
+    padding: 0;
+    font-family: Montserrat, sans-serif;
+    font-size: 15px;
+    background-color: #ffffff;
+    font-weight: 600;
+}
+
+.titulo {
+    display: flex;
+    justify-content: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    font-weight: bold;
+}
+
+.primeiraProva {
+    display: flex;
+    justify-content: center;
+}
+
+.primeiraAI1 {
+    display: flex;
+    justify-content: center;
+}
+
+.segundaProva {
+    display: flex;
+    justify-content: center;
+}
+
+.segundaAI2 {
+    display: flex;
+    justify-content: center;
+}
+
+.frequencia {
+    display: flex;
+    justify-content: center;
+}
+
+.col-12 {
+    display: flex;
+    justify-content: center;
+    padding-top: 4%;
+}
